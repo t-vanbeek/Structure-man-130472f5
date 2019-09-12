@@ -1,0 +1,16 @@
+body{background-color: whitesmoke;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: center}
+    input{height: 15px;
+    padding: 2em}
+    td{background-color: rgb(48, 48, 48);
+        color: blanchedalmond;
+        text-align: center;
+        padding: 1em;}
+    th{background-color: antiquewhite;
+    padding: 1em}
+    tbody{text-align: center;
+            padding: 1em;}
+    :any-link{color:white;
+    text-underline-position: unset}
